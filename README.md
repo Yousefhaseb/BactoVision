@@ -113,7 +113,7 @@ This project is intended for educational and research purposes.
 
 **Yousef Abdel Haseeb**
 
-Faculty of Biotechnology
+Faculty of Scinsce, Capital Uinversty (Helwan Universty), Egypt
 
 Graduation Project — BactoVision
 
