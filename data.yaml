@@ -1,0 +1,4 @@
+train: "/media/yousef-haseeb/Windows-SSD/Users/youse/Downloads/Compressed/New folder (2)/yolo_training/images/train"
+val: "/media/yousef-haseeb/Windows-SSD/Users/youse/Downloads/Compressed/New folder (2)/yolo_training/images/val"
+nc: 3
+names: ['S.aureus', 'E.coli', 'P.aeruginosa']
